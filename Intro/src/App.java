@@ -1,9 +1,11 @@
 public class App {
-    public static void main(String[] args){
-        String meuNome = "Davi";
-        int anoInicio = 2023;
-        boolean java = true;
-        anoInicio = 2022;
-        System.out.println("Meu nome é: ");
-    }
+public static void main(String[] args){
+        String nome = "Davi";
+        String sobrenome = "Carvalho";
+        String nameComplet = nomeCompleto(nome, sobrenome);
+        System.out.println(nameComplet);
+}
+public static String nomeCompleto (String primeiroNome, String segundoNome) {
+        return "O nome completo é: " + primeiroNome.concat(" ").concat(segundoNome);
+}
 }

@@ -1,3 +1,4 @@
+package edu.davi.syntax;
 public class Name {
 public static void main(String[] args){
     String nome = "Davi";

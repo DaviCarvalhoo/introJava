@@ -8,5 +8,6 @@ public class VarTypes {
 
         int numeroFinal = 1;
         final int NUMERO_FINAL = 2;
+        System.out.println(numeroCurto2 + salarioMinimo + numeroFinal + NUMERO_FINAL);
     }
 }

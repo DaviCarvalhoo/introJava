@@ -12,10 +12,10 @@ public class User {
         System.out.println("A Tv está ligada? " + smartTv.ligada);
         System.out.println("Qual o canal: " + smartTv.canal);
         System.out.println("Qual o volume: " + smartTv.volume);
-        
+
         smartTv.canais();
         smartTv.mudarCanal(12);
-        System.out.println("Canal Atual ->: " + smartTv.canal);
+        System.out.println("Canal Atual -> " + smartTv.canal);
 
     }
 }

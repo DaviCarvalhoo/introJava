@@ -3,6 +3,7 @@ package edu.davi.lanchonete.atendimento;
 public class Atendente {
     public void servindoMesa() {
 		pegarLancheCozinha();
+		pegarPedidoBalcao();
 		System.out.println("SERVINDO A MESA");
 	}
 	private void pegarLancheCozinha() {

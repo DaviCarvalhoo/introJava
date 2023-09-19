@@ -1,4 +1,4 @@
-package edu.davi.mensagem;
+package edu.davi.conceitos.mensagem;
 
 public class Telegram extends ServicoMensagemInstantanea{
     public void enviarMensagem() {

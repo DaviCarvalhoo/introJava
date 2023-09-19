@@ -1,4 +1,4 @@
-package edu.davi.mensagem;
+package edu.davi.conceitos.mensagem;
 
 public class Dispositivo {
     public static void main(String[] args) {

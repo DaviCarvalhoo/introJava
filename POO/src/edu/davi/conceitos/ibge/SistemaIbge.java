@@ -1,4 +1,4 @@
-package edu.davi.ibge;
+package edu.davi.conceitos.ibge;
 
 public class SistemaIbge {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package edu.davi.lanchonete.area.cliente;
+package edu.davi.conceitos.lanchonete.area.cliente;
 
 public class Cliente {
     public void escolherLanche() {

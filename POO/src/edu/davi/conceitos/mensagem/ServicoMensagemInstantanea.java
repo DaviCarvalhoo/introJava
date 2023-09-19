@@ -1,4 +1,4 @@
-package edu.davi.mensagem;
+package edu.davi.conceitos.mensagem;
 
 public abstract class ServicoMensagemInstantanea {
 	public abstract void enviarMensagem();

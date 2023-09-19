@@ -1,4 +1,4 @@
-package edu.davi.escola;
+package edu.davi.conceitos.escola;
 
 public class Aluno {
     private String nome;

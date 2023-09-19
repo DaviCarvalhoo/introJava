@@ -1,4 +1,4 @@
-package edu.davi.lanchonete.atendimento.cozinha;
+package edu.davi.conceitos.lanchonete.atendimento.cozinha;
 
 public class Almoxarife {
     private void controlarEntrada() {

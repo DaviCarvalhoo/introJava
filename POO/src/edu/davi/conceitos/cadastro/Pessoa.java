@@ -1,4 +1,4 @@
-package edu.davi.cadastro;
+package edu.davi.conceitos.cadastro;
 
 public class Pessoa {
 	private String nome;
